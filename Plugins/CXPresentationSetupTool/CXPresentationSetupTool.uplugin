@@ -1,0 +1,14 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "CX Presentation Setup Tool",
+  "Description": "Editor-only authoring and readback for the CX city arena and main menu.",
+  "Category": "Editor",
+  "EnabledByDefault": false,
+  "CanContainContent": false,
+  "Modules": [
+    { "Name": "CXPresentationSetupTool", "Type": "Editor", "LoadingPhase": "Default" },
+    { "Name": "CXPresentationSmoke", "Type": "UncookedOnly", "LoadingPhase": "Default", "TargetAllowList": ["Editor"] }
+  ]
+}

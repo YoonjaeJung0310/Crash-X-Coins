@@ -1,0 +1,23 @@
+# 빌드·캐시 결과물 (에디터가 다시 만듦)
+.vs/
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+UpgradeLog.htm
+
+# 작업용 폴더·영상·문서
+Backup/
+output/
+tmp/
+시연영상/
+Docs/
+AGENTS.md
+design-spec.md
